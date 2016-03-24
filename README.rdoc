@@ -2,7 +2,7 @@
 
 ## Installation
 
-    gem install nmax
+    gem install nmax, github: "sovetnik/nmax"
 
 ## Usage
 
