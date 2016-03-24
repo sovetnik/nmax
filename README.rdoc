@@ -1,0 +1,12 @@
+# Nmax
+
+## Installation
+
+    gem install nmax
+
+## Usage
+
+    cat sample_data_40GB.txt | nmax 10000
+
+
+This project rocks and uses MIT-LICENSE.

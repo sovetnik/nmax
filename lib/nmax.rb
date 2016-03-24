@@ -1,0 +1,2 @@
+module Nmax
+end
