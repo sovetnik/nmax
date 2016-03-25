@@ -15,7 +15,6 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.files         = `git ls-files`.split("\n")
-  s.test_files    = `git ls-files -- spec/*`.split("\n")
   s.executables   = ['nmax']
   s.require_paths = ['lib']
 

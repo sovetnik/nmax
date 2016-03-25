@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
 
 require 'nmax'
-
-Nmax::NumberMax.fuck
+Nmax::NumberMax.parse
