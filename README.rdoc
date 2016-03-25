@@ -1,12 +1,23 @@
-# Nmax
+Nmax
+===================
+
 
 ## Installation
 
-    gem install nmax, github: "sovetnik/nmax"
+ - clone repo
+ - run
+
+    rake install
+ - or in bundler:
+
+    gem install 'nmax', github: "sovetnik/nmax"
 
 ## Usage
 
     cat sample_data_40GB.txt | nmax 10000
 
+   data example:
+
+      19b988b49ce34a33c05358060998f38f7010b950ed1b20d39693b517c47fe459ccd8fb3876a4d3f7e879cd6a4e7594c9e12c3be2d82c8ba43c169002eeebb88f
 
 This project rocks and uses MIT-LICENSE.
